@@ -1,0 +1,81 @@
+body{
+background-color: #EAF0F1;
+
+}
+
+
+.bg-black
+{
+background-color: #000000;
+
+}
+.font-div
+{
+width: 30%;
+}
+img
+{
+
+	width: 100%;
+	height: 100%;
+}
+/*responsive*/
+@media only screen and (min-width:1202px)
+{
+
+	.font-div
+	{
+
+		padding: 44px 0px!important;
+	}
+}
+
+.fa-facebook
+{
+
+	color:#67E6DC;
+}
+.fa-linkedin
+{
+color:#67E6DC;
+}
+.fa-twitter
+{
+color:#67E6DC;
+}
+.fa-youtube
+{
+color:#67E6DC;
+}
+.fa-facebook:hover{
+	color:#fff;
+}
+.fa-linkedin:hover{
+	color:#fff;
+}
+.fa-twitter:hover{
+	color:#fff;
+}
+.fa-youtube:hover{
+	color:#fff;
+}
+
+
+
+.bg-contact{
+
+	background-color:#0A3D62;
+}
+.color-font{
+
+	color: #67E6DC;
+}
+.color-font:hover{
+color:#fff ;
+
+}
+.anime:hover{
+
+	background-color:#192A56;
+	color:#fff;
+}
